@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phaedradenolf
 - 👀 I’m interested in ... you!
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently nurturing my IT knowledge at the InsurTech startup, WeGroup
 - 💞️ I’m looking to collaborate on various projects!
 - 📫 How to reach me: phaedra.denolf@wegroup.be
 
